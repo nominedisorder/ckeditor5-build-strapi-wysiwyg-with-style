@@ -4,8 +4,6 @@ Enhanced build of [CKEditor 5](https://github.com/ckeditor/ckeditor5) to replace
 
 ![ckeditor5-build-strapi-wysiwyg demo screenshot](/demo/demo.png)
 
-[👀 **Live Demo**](https://roslovets-inc.github.io/ckeditor5-build-strapi-wysiwyg/)
-
 ## Features
 
 -   Enhanced build of CKEditor 5 with more capabilities then Classic Editor build has
@@ -34,17 +32,17 @@ npm i
 
 ## How to use
 
-Just install to your Strapi [strapi-plugin-ckeditor5](https://github.com/Roslovets-Inc/strapi-plugin-ckeditor5) plugin based on this build (recommended).
+Just install to your Strapi [strapi-plugin-ckeditor5](https://github.com/nominedisorder/strapi-plugin-ckeditor5-with-style) plugin based on this build (recommended).
 
-If you want to integrate the build manually examine [strapi-plugin-ckeditor5](https://github.com/Roslovets-Inc/strapi-plugin-ckeditor5) source code as an integration example.
+If you want to integrate the build manually examine [strapi-plugin-ckeditor5](https://github.com/nominedisorder/strapi-plugin-ckeditor5-with-style) source code as an integration example.
 
 ## How to add more features to the editor
 
-If you want to see more features in this build feel free to request it in [issues](https://github.com/Roslovets-Inc/ckeditor5-build-strapi-wysiwyg/issues) or create pull request. Together we will build a comprehensive editor for common needs.
+If you want to see more features in this build feel free to request it in [issues](https://github.com/nominedisorder/ckeditor5-build-strapi-wysiwyg-with-style/issues) or create pull request. Together we will build a comprehensive editor for common needs.
 
 ## Links
 
--   [NPM package](https://www.npmjs.com/package/ckeditor5-build-strapi-wysiwyg)
+-   [NPM package](https://www.npmjs.com/package/@wdsmartech/ckeditor5-build-strapi-wysiwyg-with-style)
 -   [GitHub repository](https://github.com/nominedisorder/ckeditor5-build-strapi-wysiwyg-with-style.git)
 
 ## ⭐️ Show your support

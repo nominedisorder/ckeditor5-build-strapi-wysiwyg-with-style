@@ -1,5 +1,5 @@
 {
-  "name": "ckeditor5-build-strapi-wysiwyg-with-style",
+  "name": "@wdsmartech/ckeditor5-build-strapi-wysiwyg-with-style",
   "version": "1.14.0",
   "description": "CKEditor 5 build for Strapi WYSIWYG editor replacement with style package",
   "private": false,
@@ -54,6 +54,7 @@
     "@ckeditor/ckeditor5-paste-from-office": "^28.0.0",
     "@ckeditor/ckeditor5-remove-format": "^28.0.0",
     "@ckeditor/ckeditor5-special-characters": "^28.0.0",
+    "@ckeditor/ckeditor5-style": "^36.0.1",
     "@ckeditor/ckeditor5-table": "^28.0.0",
     "@ckeditor/ckeditor5-theme-lark": "^28.0.0",
     "@ckeditor/ckeditor5-typing": "^28.0.0",
@@ -72,13 +73,15 @@
     "node": ">=12.0.0",
     "npm": ">=5.7.1"
   },
-  "author": "Pavel Roslovets (https://github.com/roslovets)",
+  "author": "Aaron Beauchamp (https://github.com/nominedisorder)",
   "license": "GPL-2.0-or-later",
-  "homepage": "https://github.com/Roslovets-Inc/ckeditor5-build-strapi-wysiwyg",
-  "bugs": "https://github.com/Roslovets-Inc/ckeditor5-build-strapi-wysiwyg/issues",
+  "homepage": "https://github.com/nominedisorder/ckeditor5-build-strapi-wysiwyg-with-style",
+  "bugs": {
+    "url": "https://github.com/nominedisorder/ckeditor5-build-strapi-wysiwyg-with-style/issues"
+  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Roslovets-Inc/ckeditor5-build-strapi-wysiwyg.git"
+    "url": "git+https://github.com/nominedisorder/ckeditor5-build-strapi-wysiwyg-with-style.git"
   },
   "scripts": {
     "lint": "eslint --quiet \"**/*.js\"",
@@ -106,7 +109,5 @@
       "pre-commit": "npx lint-staged"
     }
   },
-  "dependencies": {
-    "@ckeditor/ckeditor5-style": "^36.0.1"
-  }
+  "dependencies": {}
 }
