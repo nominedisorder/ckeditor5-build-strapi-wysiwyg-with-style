@@ -14,17 +14,14 @@ Enhanced build of [CKEditor 5](https://github.com/ckeditor/ckeditor5) to replace
 -   Access Strapi Media Library directly from the editor toolbar 🔥
 -   Full screen mode 🔥
 
-## How to try
-
-Check out [👀 **live demo**](https://roslovets-inc.github.io/ckeditor5-build-strapi-wysiwyg/) where you can test most of the features.
 
 ## How to try manually
 
 1. Clone repository and change directory
 
 ```
-git clone https://github.com/Roslovets-Inc/ckeditor5-build-strapi-wysiwyg
-cd ckeditor5-build-strapi-wysiwyg
+git clone git@github.com:nominedisorder/ckeditor5-build-strapi-wysiwyg-with-style.git
+cd ckeditor5-build-strapi-wysiwyg-with-style
 ```
 
 2. Install dependencies and build CKEditor (automatically)
@@ -48,7 +45,7 @@ If you want to see more features in this build feel free to request it in [issue
 ## Links
 
 -   [NPM package](https://www.npmjs.com/package/ckeditor5-build-strapi-wysiwyg)
--   [GitHub repository](https://github.com/Roslovets-Inc/ckeditor5-build-strapi-wysiwyg)
+-   [GitHub repository](https://github.com/nominedisorder/ckeditor5-build-strapi-wysiwyg-with-style.git)
 
 ## ⭐️ Show your support
 
